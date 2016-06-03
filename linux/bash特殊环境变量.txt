@@ -1,0 +1,3 @@
+promote_command
+bash_env
+ld_library
